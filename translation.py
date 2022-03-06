@@ -7,15 +7,15 @@ class LuciferMoringstar(object):
     ABOUT_MSG = """
 🤖 My Name [{bot_name}](t.me/{bot_username})
 
-🧑 My Dev : [PR0FESS0R-99](t.me/PR0FESS0R_99)
+🧑 My Dev : LUCIFER
 
 🧑 My Creator : {dev_name}
 
-🖇️ My Language : [Python3]
+🖇️ My Language : Python3
 
-🗃️ My Database : [Mongodb]
+🗃️ My Database : Mongodb
 
-🗳️ My Server : [Heroku]
+🗳️ My Server : Heroku
 
 🗣️ My Support : [Any Doubt](t.me/FM_MOVE)"""
 
